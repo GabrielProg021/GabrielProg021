@@ -1,4 +1,4 @@
-## Olá, eu sou o Gabriel Nascimento Gonçalves!
+# Olá, eu sou o Gabriel Nascimento Gonçalves!
 
 Sou estudante de Engenharia de Software e estou focando na área de desenvolvimento front-end. Tenho 27 anos e estou em busca da minha primeira oportunidade no mercado de desenvolvimento web.
 
